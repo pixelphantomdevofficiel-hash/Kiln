@@ -1,0 +1,11 @@
+{
+  "announcements": [
+    {
+      "id": "2026-11-24-bienvenue",
+      "title": "KILN 0.3.0 est disponible",
+      "date": "24/11/2026",
+      "body": "Nouveautés : annonces, personnalisation (fond d'écran, sons, FPS).",
+      "important": false
+    }
+  ]
+}
