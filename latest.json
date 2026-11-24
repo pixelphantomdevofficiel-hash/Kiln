@@ -1,0 +1,11 @@
+﻿{
+    "version":  "0.3.0",
+    "notes":  "",
+    "pub_date":  "2026-11-24T17:51:52Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeVMzSCs2MmlxOVZrbUFrcHRhT1l4VWtibkJzVUlDTWE2T1o2QnZtS2l2dTh0NGh3Y3FEZGtucTVsZ1JyaDV2QXgxVWVUMjF6VEpJQVIrYnRsUFc1SVJMWTlITnNaUUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTQyNTM1CWZpbGU6S0lMTl8wLjMuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjAKZWJ6TFVSK1U4VzlkekIzdk1xVnE0NXRkVUxqeHpwTnhVcTgxOUk4WTl6a0hjaGY1bllwekFWTDBiUkc2UWZ6OSswNVZxd2I2UjdMZ2hkSm0rdWFHQWc9PQo=",
+                                             "url":  "https://github.com/Mise à jour KILN//releases/download/v0.3.0/KILN_0.1.0_x64-setup.exe"
+                                         }
+                  }
+}
